@@ -4,6 +4,8 @@ def substract(x,y)
     x - y
 end
 
+puts "My name is hidayah"
+
 puts "Enter first number:"
 input_x = gets.chomp.to_i
 
