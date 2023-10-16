@@ -4,6 +4,8 @@ def add(x,y)
     x + y
 end
 
+puts "Enter"
+
 puts "Enter first number:"
 input_x = gets.chomp.to_i
 
